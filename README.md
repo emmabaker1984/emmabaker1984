@@ -1,7 +1,12 @@
 # Hello and welcome to my github
 
 <!--
-**emmabaker1984/emmabaker1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**emmabaker1984/emmabaker19<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
+84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
